@@ -11,44 +11,61 @@ Smart Home Automation Systems are becoming increasingly popular due to their abi
 The aim of this project is to create a simple yet effective Smart Home Automation System that allows users to control the lighting in their homes wirelessly. The system is built around the Arduino platform, incorporating a Bluetooth module for communication, a relay for switching the lights, a 5-volt battery for power, and a breadboard for prototyping.
 
 2. Components Used:
+ 
 Hardwares:
+
 a. Arduino UNO
+
 b. HC-05 Bluetooth Module
+
 c. 5 V Relay X 4
+
 d. 5V Power Source
+
 e. Connecting wires
+
 f. Bluetooth Android App
+
 g. Smartphone or tablet (Bluetooth enabled)
 
+
 Softwares:
+
 Arduino 1.8.19 compiler (application software)
 
 a)Arduino UNO
 ![image](https://github.com/TahirHussaini0025/SmartHome-Lights-Control/assets/141020681/325d4998-6c4c-42e1-b4ba-eaa5ed940332)
 The brain of the system, responsible for processing commands and controlling the relay.
 
+
 b)HC-05 Bluetooth Module
 ![image](https://github.com/TahirHussaini0025/SmartHome-Lights-Control/assets/141020681/d4215647-7e31-4117-a326-e0d925055cf0)
 Enables wireless communication between the Arduino and the Android app.
+
 
 c)5 V Relay X 4
 ![image](https://github.com/TahirHussaini0025/SmartHome-Lights-Control/assets/141020681/5c90f606-13e3-43af-b674-17d31471834f)
 Acts as a switch to control the ON/OFF state of the lights.
 
+
 d)5V Power Source
 ![image](https://github.com/TahirHussaini0025/SmartHome-Lights-Control/assets/141020681/4c3c87a2-005f-4287-bc02-71847d094e8a)
 Power Bank 5V 2A charger circuit module Power Supply Electronic
+
 
 e)Connecting wires
 ![image](https://github.com/TahirHussaini0025/SmartHome-Lights-Control/assets/141020681/7857adc5-131f-47f4-baa0-c80c413c533f)
 Connecting wires with Arduino UNO, Relay and Bluetooth Modules
 
+
 f)Bluetooth Android App
 ![image](https://github.com/TahirHussaini0025/SmartHome-Lights-Control/assets/141020681/65b7f8be-c5fe-4f57-a0d8-d1c9a96a493a)
 An application developed for controlling the lights remotely.
 
+
 g)Smartphone or tablet (Bluetooth enabled)
 ![image](https://github.com/TahirHussaini0025/SmartHome-Lights-Control/assets/141020681/4f278072-b0cb-4701-9dc2-cc52c687d03a)
+
 
 h)Arduino 1.8.19 compiler (application software)
 ![image](https://github.com/TahirHussaini0025/SmartHome-Lights-Control/assets/141020681/d35c1741-f088-418e-86e3-c6a1fd96ba4a)
